@@ -16,8 +16,8 @@ let audios = [
 ];
 
 let images = [
-  "mirchi.jpeg",
-  "nani.jpeg"
+ "https://m.media-amazon.com/images/M/MV5BM2NmYzRjYTItNWUwMC00MjMyLThhYzgtMWE4ODBmOGUzOGZjXkEyXkFqcGc@._V1_.jpg",
+  "https://i.pinimg.com/564x/92/97/6c/92976cd9c5f632b338f5a21fba5ffb70.jpg"
 ];
 
 let trackNames = [
